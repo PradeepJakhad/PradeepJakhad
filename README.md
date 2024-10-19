@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 👋 Hey there! I'm **Pradeep Jakhad**
 
 I'm a passionate, aspiring **Data Scientist** on a mission to make sense of data and turn it into meaningful insights. Currently, I'm honing my skills in areas like machine learning, data analysis, and data visualization to solve real-world problems. I believe in the power of data to drive decisions and create impact!
